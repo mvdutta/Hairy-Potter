@@ -25,9 +25,8 @@ console.log(firedMug)
 console.log(firedCatShape)
 console.log(firedBowl)
 
-
-
 // Determine which ones should be sold, and their price
+let 
 
 
 // Invoke the component function that renders the HTML list
